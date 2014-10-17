@@ -157,6 +157,6 @@ RSpec.describe TeamsController, :type => :controller do
 
   end
 it "fails test" do
-fail "failed"
+fail "failed
 end
 end
