@@ -1,2 +1,3 @@
 language: ruby
-rvm:1.9.3p484
+rvm: 2.0.0-p247
+bundler_args: --without production
