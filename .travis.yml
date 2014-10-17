@@ -1,4 +1,2 @@
 language: ruby
-rvm:
-ruby 1.9.3p484
-bundler_args: --without production
+rvm:1.9.3p484
